@@ -1,0 +1,7 @@
+@media only screen and (max-width :1000px) {
+    .navbar .container .collapse .navbar-nav a:nth-last-child(1){
+        background: none;
+        border-radius: none;
+        padding:10px 0px;
+    }
+}
